@@ -101,7 +101,6 @@ class App extends React.Component {
     }
 
     calculateFaceLocation = (data) =>{
-        console.log('data',data);
         return data.outputs[0].data.regions.map(region => {
             return {
                 left: region.region_info.bounding_box.left_col * 100,
