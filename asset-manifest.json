@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/brain-frontend/static/css/main.f97fe1d9.chunk.css",
+    "main.js": "/brain-frontend/static/js/main.5458c3f0.chunk.js",
+    "main.js.map": "/brain-frontend/static/js/main.5458c3f0.chunk.js.map",
+    "runtime-main.js": "/brain-frontend/static/js/runtime-main.2b17edbb.js",
+    "runtime-main.js.map": "/brain-frontend/static/js/runtime-main.2b17edbb.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/brain-frontend/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.cd7598e0.chunk.js": "/brain-frontend/static/js/2.cd7598e0.chunk.js",
+    "static/js/2.cd7598e0.chunk.js.map": "/brain-frontend/static/js/2.cd7598e0.chunk.js.map",
+    "index.html": "/brain-frontend/index.html",
+    "precache-manifest.271335f8540c079a86e30dedf104ed44.js": "/brain-frontend/precache-manifest.271335f8540c079a86e30dedf104ed44.js",
+    "service-worker.js": "/brain-frontend/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/brain-frontend/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.f97fe1d9.chunk.css.map": "/brain-frontend/static/css/main.f97fe1d9.chunk.css.map"
+  }
+}
